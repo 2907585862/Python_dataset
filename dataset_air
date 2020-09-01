@@ -1,0 +1,2 @@
+wget --no-check-certificate --content-disposition https://URL-from-step3/
+https://github.com/pandas-dev/pandas/blob/master/doc/data/air_quality_no2.csv
